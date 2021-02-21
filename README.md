@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/7744832f-1820-4384-95f5-8cb2d4baf2c2/deploy-status)](https://app.netlify.com/sites/cra-js/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c364675b-0f09-4399-bd4c-c930e710e26e/deploy-status)](https://app.netlify.com/sites/cra-js/deploys)
 [![codecov](https://codecov.io/gh/maximsan/cra-js/branch/main/graph/badge.svg?token=OGFOYAC3VK)](https://codecov.io/gh/maximsan/cra-js)
 [![Build Status](https://travis-ci.com/maximsan/cra-js.svg?branch=main)](https://travis-ci.com/maximsan/cra-js)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/maximsan/cra-js)
