@@ -1,5 +1,5 @@
 {
-  "name": "dims-cra",
+  "name": "cra-js",
   "version": "0.0.0-development",
   "description": "cra-js template bootstrapped with CRA app with CI/CD and deploy to netlify via button",
   "main": "src/index.jsx",
@@ -111,10 +111,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Dev-incubator/DIMS-cra.git"
+    "url": "https://github.com/maximsan/cra-js.git"
   },
   "bugs": {
-    "url": "https://github.com/Dev-incubator/DIMS-cra/issues"
+    "url": "https://github.com/maximsan/cra-js/issues"
   },
   "release": {
     "branches": "main"

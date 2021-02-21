@@ -1,6 +1,6 @@
 {
-  "short_name": "DI App",
-  "name": "Dev Incubator App",
+  "short_name": "App",
+  "name": "React App",
   "icons": [
     {
       "src": "favicon.ico",
