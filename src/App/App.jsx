@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { SaveButton } from '../components/Buttons/SaveButton/SaveButton';
 import { appTitle } from '../config';
 
 export const App = () => {
@@ -6,5 +7,10 @@ export const App = () => {
     document.title = appTitle;
   }, []);
 
-  return <div>Start prototype</div>;
+  return (
+    <div>
+      Start prototype
+      <SaveButton />
+    </div>
+  );
 };
